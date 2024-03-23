@@ -1,0 +1,1 @@
+IWB is an abbreviation for Internally Wired [[Bars]]. This means that sockets are mounted directly on the bar, and the electrical wiring runs internally through the bar. 

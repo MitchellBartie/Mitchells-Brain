@@ -1,0 +1,1 @@
+Dimmer Racks are used in [[Hardwired Systems]]. 

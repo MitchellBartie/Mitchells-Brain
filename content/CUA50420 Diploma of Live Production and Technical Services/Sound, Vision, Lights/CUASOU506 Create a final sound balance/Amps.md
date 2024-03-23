@@ -1,0 +1,1 @@
+Amps is the measurement of the rate of flow of [[Electricity]] in a circuit. 

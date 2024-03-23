@@ -1,0 +1,1 @@
+The CP Class Lamp is originally used in film and television [[Fixtures]] and has a [[Colour Temperature]] of 3200 Kelvin. 

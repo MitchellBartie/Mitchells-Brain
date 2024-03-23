@@ -1,0 +1,1 @@
+MSR is an abbreviation for Medium Source Rare-earth. This is a type of [[Discharge Lamp]] and is used in [[Moving Lights]] and [[Follow Spots]]. They have a [[Colour Temperature]] of 5600 Kelvin. 

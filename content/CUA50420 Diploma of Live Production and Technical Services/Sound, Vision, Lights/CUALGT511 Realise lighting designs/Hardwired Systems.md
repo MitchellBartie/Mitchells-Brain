@@ -1,0 +1,5 @@
+Electrical wiring within a Hardwired System is ran in conduit from a socket directly into the [[Dimmer Units]]. The sockets are distributed throughout the venue in different ways:
+
+Within smaller venues the sockets can be terminated on or above fixed lighting [[Bars]] or at stage level. In the UK [[IWB]]'s are used. Some venues have sockets that are paired and run directly to the same [[Dimmer Units]] [[Control Channel]]. Larger venues can terminate their [[Dimmer Units]] directly to outlet [[Patch Panels]] adjacent to the lighting [[Bars]], and then using a [[Multicore]] cable, the plugs are [[Hard Patched]] into the [[Patch Panels]]. 
+
+In a Hardwired System, sockets are usually labelled by the Dimmer [[Control Channel]] that is controlling them. This means that any [[Fixtures]] that are plugged into socket 1 will be controlled by Dimmer [[Control Channel]] 1, and [[Control Channel]] 1 on a [[Lighting Console]] with a 1:1 [[Soft Patch]]. 

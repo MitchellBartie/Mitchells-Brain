@@ -1,0 +1,1 @@
+The HPL Class [[Lamp]] (High Performance Lamp) is used in [[Ellipsoidal]] and [[Axial]] [[Fixtures]]. They have a [[Colour Temperature]] of 3000 Kelvin. 

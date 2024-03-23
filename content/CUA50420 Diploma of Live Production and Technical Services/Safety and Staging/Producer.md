@@ -1,0 +1,1 @@
+The main role of the Producer is to finance and create the budget for a new show, as well as to source and employ the cast and crew that will create the show. Independent Producers or production companies are used when theatres are not producing their own show. 

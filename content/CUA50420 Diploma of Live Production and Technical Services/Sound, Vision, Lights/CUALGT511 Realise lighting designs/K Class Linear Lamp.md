@@ -1,0 +1,1 @@
+K Class Linear Lamps are used in [[Flood]] [[Fixtures]] and have a terminal at each end of the [[Lamp]]. They are fitted into a spring loaded [[Lamp]] post holder. They have a lower [[Colour Temperature]] than a [[K Class Linear Lamp]] and [[CP Class Lamp]]. 

@@ -1,0 +1,1 @@
+Corporate [[NIDA Notes/Safety and Staging/Compliance]] refers to the internal policies and rules that are created specifically for use within an organisation or company. They need to be adhered to by all staff within the business to avoid [[Non-Compliance]]. Corporate [[NIDA Notes/Safety and Staging/Compliance]] can also be expected behaviour within a company or organisation. 

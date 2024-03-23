@@ -1,0 +1,1 @@
+Prefocus Cap Lamps are found in older [[Fixtures]] and have two fins at the base which are aligned with the [[Fixtures]] [[Lamp]] holder at 90° to the [[Fixtures]] axis. To remove Prefocus Cap Lamps push down and twist 90° anticlockwise.  

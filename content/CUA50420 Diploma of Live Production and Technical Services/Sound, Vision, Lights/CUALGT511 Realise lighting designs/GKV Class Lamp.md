@@ -1,0 +1,1 @@
+The GKV Class [[Lamp]]  is used in [[Ellipsoidal]] and [[Axial]] [[Fixtures]]. They have a [[Colour Temperature]] of 3000 Kelvin. 

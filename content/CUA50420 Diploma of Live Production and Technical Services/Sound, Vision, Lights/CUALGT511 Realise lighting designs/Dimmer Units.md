@@ -1,0 +1,1 @@
+Dimmer Units are used to control the intensity of light produced by [[Fixtures]]. The two main types of Dimmer Units are: [[Dimmer Racks]], and [[Dimmer Packs]]. Dimmers are controlled with a [[Lighting Console]]. 

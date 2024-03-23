@@ -1,0 +1,1 @@
+It is important to clean and maintain [[Fixtures]] at least once a year, preferably after each use. This is because a build up of dust on the lens can greatly reduce the intensity of the fixture and can be a fire [[Hazard]].  

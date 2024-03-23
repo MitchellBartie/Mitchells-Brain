@@ -1,0 +1,1 @@
+Guidelines are industry specific and provide employers and employees with a guide to reach the level of [[NIDA Notes/Safety and Staging/Compliance]] enforced in legislation, Acts and [[Regulations]]. 

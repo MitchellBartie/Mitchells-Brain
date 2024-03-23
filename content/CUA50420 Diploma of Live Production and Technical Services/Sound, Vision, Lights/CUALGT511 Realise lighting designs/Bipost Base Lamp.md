@@ -1,0 +1,1 @@
+Bipost Base Lamps have two pins at the base that insert into [[Fixtures]] and are commonly used in modern [[Fixtures]]. To remove them, just gently ease them out, or on Selecon [[Fixtures]], use the release lever to partly eject the [[Lamp]]. 

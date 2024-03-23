@@ -1,0 +1,1 @@
+The size or diameter of the pins used for different cables depends on the maximum amount of power that will be running through the cable. This is measured in [[Amps]]. In Australia, GPOs use a standard 3 pin outlet that is 10 [[Amps]], 230 [[Volts]], however this is usually rounded to 240 [[Volts]]. [[Dimmer Units]] use 32 or 40 [[Amps]] supplied over a 3 Phase connector. 

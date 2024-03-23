@@ -1,0 +1,2 @@
+The main roles and responsibilities for the Chief Electrician is to oversee the [[Rigging]] of [[Fixtures]], and the production. In smaller productions these roles can be taken over by the [[Lighting Designer]]. The Chief Electrician can also be called the Head Electrician. Other responsibilities are to organise hiring, builds, patching, power and data distribution, create patch documentation, ensure consumables and equipment are available, maintain equipment and trouble shoot issues, and attend [[Production Meetings]].
+

@@ -1,0 +1,1 @@
+Codes of Practice provide better ways that personnel can remain compliant with Acts and [[Regulations]], however, it is not a [[Compliance]] requirement to follow the Codes of Practice. It is important that an equal or better way of remaining compliant is achieved if the Codes of Practice are not being followed. 

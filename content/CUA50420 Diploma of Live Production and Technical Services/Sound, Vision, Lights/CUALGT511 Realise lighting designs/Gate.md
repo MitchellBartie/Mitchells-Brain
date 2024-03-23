@@ -1,0 +1,1 @@
+The gate is found in [[Profile]] [[Fixtures]] at the central point of focus between the [[Lamp]] tray and [[Reflector]], and the [[Lens system]]. It is a slot that [[Gobos]] can be inserted into, and is where the [[Shutters]] are located. 

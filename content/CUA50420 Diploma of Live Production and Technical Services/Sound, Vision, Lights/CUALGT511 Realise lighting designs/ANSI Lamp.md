@@ -1,0 +1,1 @@
+The ANSI Lamp is a [[PAR-Sealed Beam]] [[Lamp]]. 

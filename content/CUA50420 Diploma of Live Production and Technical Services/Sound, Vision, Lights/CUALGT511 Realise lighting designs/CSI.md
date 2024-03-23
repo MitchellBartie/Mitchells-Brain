@@ -1,0 +1,1 @@
+CSI is an abbreviation for Compact Source Iodide. This is a type of [[Discharge Lamp]] and are used in [[Follow Spots]]. They have a [[Colour Temperature]] of 5520 Kelvin 

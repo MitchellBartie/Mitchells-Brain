@@ -1,0 +1,4 @@
+The Cold Mirror is used as part of the heat management system in [[Base Down Ellipsoidal Profile]] [[Fixtures]]. The mirror directs ultra-violet and infra red rays through a heat sink located on the angled back of the Fixture. This type of heat management system produces a cool beam of light to the stage, and directs heat away from important components of the fixture such as the adjustment knobs, colour filters, and wiring. This also means that plastic transparency images can be projected when placed in a heat resistant [[Gobo Holder]] within the fixture's [[Gate]]. 
+
+![[Pasted image 20240113190028.png]]
+***Pacific Cutaway***

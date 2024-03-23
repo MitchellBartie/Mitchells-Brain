@@ -1,0 +1,1 @@
+Voltage is the measurement of constant electrical pressure. 

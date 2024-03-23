@@ -1,0 +1,1 @@
+The T Class [[Lamp]] is used for stage lighting and has a [[Colour Temperature]] of 3000 Kelvin. 

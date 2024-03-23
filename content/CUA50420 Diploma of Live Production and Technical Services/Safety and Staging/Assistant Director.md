@@ -1,0 +1,1 @@
+The Assistant Director helps the [[Stage Manager]] by taking notes on all moves and other decisions that are collated into the [[Prompt Copy]]. When there is no Assistant Director, this task is completed by the [[Stage Manager]]. 

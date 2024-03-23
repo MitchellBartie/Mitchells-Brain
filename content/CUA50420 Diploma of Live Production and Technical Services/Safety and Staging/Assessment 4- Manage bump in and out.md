@@ -1,0 +1,2 @@
+### Scenario:
+The props road crate that tours the glass figurines and onstage cabinet is dropped during the unload of the truck. One glass panel on the cabinet and one half of the figurines are damaged. The glass cabinet is repairable but the figurines are not. Describe how you would manage this situation from the incident taking place to the resolution and replacement of the props and furniture. 

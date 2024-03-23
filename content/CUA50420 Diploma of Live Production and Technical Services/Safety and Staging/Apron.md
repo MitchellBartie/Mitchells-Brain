@@ -1,0 +1,1 @@
+The Apron is the part of a stage, usually a [[Proscenium Arch]] stage, that extends past the FOH curtain, or [[Proscenium Arch]]. 

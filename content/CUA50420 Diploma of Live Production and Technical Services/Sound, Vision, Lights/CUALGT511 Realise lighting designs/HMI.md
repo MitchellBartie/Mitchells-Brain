@@ -1,0 +1,1 @@
+HMI is an abbreviation for Halide Metal Iodide. This is a type of [[Discharge Lamp]] and is used in [[Moving Lights]]. They have a [[Colour Temperature]] of 5600 Kelvin. 

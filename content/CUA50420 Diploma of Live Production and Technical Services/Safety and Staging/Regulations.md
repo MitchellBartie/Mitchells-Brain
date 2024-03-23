@@ -1,0 +1,1 @@
+Regulations provide specific detail on how activities should be carried out in order to stay compliant with the legislative Government Act, which outlines the [[NIDA Notes/Safety and Staging/Compliance]] requirements for specific Industries and tasks. 

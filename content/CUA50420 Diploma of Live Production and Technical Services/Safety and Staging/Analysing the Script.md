@@ -1,0 +1,3 @@
+The first step of a [[Stage Manager]] during [[Preproduction]] is to Analyse the Script. At first a [[Stage Manager]] should read through the full [[Script]] without making any notes as this will provide them with the style and tone of the production. It also removes any unknowns in terms of which [[Props]] or [[Set Pieces]] are crucial to the plot and if they require anything special. 
+
+Next a good [[Stage Manager]] should read through the script again and this time find all technical, staging, and acting needs and directions that could be problematic. 

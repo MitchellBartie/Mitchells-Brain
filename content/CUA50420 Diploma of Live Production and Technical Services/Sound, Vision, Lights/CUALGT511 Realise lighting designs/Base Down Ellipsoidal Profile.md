@@ -1,0 +1,4 @@
+In Base Down Ellipsoidal [[Profile]] [[Fixtures]] the filament is mounted base down in a vertical axis at the focal point of a half elliptical [[Reflector]]. The beam of light is directed by the [[Reflector]] along the vertical axis until it hits the [[Cold Mirror]] and is then turned 90° and directed along the horizontal axis of the fixture through the gate, and the [[Lens system]]. The [[Flat Beam]] and [[Peak Beam]] adjustment for Axial Ellipsoidal [[Profile]] [[Fixtures]] can be found under the [[Lamp]] Tray in the form of two wheels or knobs. When the wheel is turned clockwise, the filament will move up creating a [[Flat Beam]], and when the wheel is turned anti clockwise, the filament will move down producing a [[Peak Beam]]. 
+
+![[Pasted image 20240113185936.png]]
+***Base Down Ellipsoidal Profile Optical System***
